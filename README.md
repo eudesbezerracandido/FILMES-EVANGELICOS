@@ -42,3 +42,19 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um homem vive atormentado após perder a sua filha mais nova, cujo corpo nunca foi encontrado, mas sinais de que ela teria sido violentada e assassinada são encontrados em uma cabana nas montanhas. Anos depois da tragédia, ele recebe um chamado misterioso para retornar a esse local, onde ele vai receber uma lição de vida.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] O MENINO DE OURO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ACA91C139D556EDA7EEF56E6E5E6464DEE0C8D6&dn=Filme%20-%20O%20Menino%20de%20Ouro&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/97/46/39/20530800.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois da morte de seu filho, um casal decide adotar uma criança. Enquanto eles tentam se ajustar à nova vida, um dia um garoto aparece inesperadamente na sua porta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUARTO DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:253ACFD7E7A111A96F4B8425C792A7CD273B10EF&dn=Quarto%20de%20Guerra%20%282015%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91jr985qa7L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Elizabeth (Priscilla Evans Shirer) e Tony (T.C. Stallings) formam um casal em crise de relacionamento. A filha pequena percebe que ambos estão à beira do divórcio, mas eles não conseguem chegar a um acordo. Um dia, Elizabeth conhece uma mulher idosa que lhe apresenta o poder da oração e, a partir deste momento, a jovem mãe decide depositar a sua fé nas preces divinas.</info>
+</item>
