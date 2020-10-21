@@ -34,3 +34,11 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Do mesmo estilo de Desafiando Gigantes… Kirk Cameron (Deixados Para Trás) interpreta Caleb Holt, um heróico capitão bombeiro que preza a dedicação e o serviço ao próximo acima de tudo. Mas a parceria mais importante de sua vida, seu casamento, está prestes a se desfazer em fumaça. Esta história cativante acompanha o desejo de um homem em transformar sua vida e seu casamento através do poder curativo da fé e de seguir adiante pelo lema dos bombeiros: Nunca deixe seu parceiro para trás.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] A CABANA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91eXvRufnFL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem vive atormentado após perder a sua filha mais nova, cujo corpo nunca foi encontrado, mas sinais de que ela teria sido violentada e assassinada são encontrados em uma cabana nas montanhas. Anos depois da tragédia, ele recebe um chamado misterioso para retornar a esse local, onde ele vai receber uma lição de vida.</info>
+</item>
