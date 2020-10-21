@@ -58,3 +58,68 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Elizabeth (Priscilla Evans Shirer) e Tony (T.C. Stallings) formam um casal em crise de relacionamento. A filha pequena percebe que ambos estão à beira do divórcio, mas eles não conseguem chegar a um acordo. Um dia, Elizabeth conhece uma mulher idosa que lhe apresenta o poder da oração e, a partir deste momento, a jovem mãe decide depositar a sua fé nas preces divinas.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] MILAGRE NA CELA SETE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621f49c9372d50743e152e8503d3dc67b44f905b&dn=LAPMiA.Org%20-%20Milagre%20na%20Cela%207%202020%20(720p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/10/08/15/52/1926679.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história de amor entre um pai com doença mental que foi injustamente acusado de assassinato e sua adorável filha de seis anos. A prisão seria a casa deles. </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CARTAS PARA DEUS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036555a158e2da9b93ada67b5181c2d68f92633a</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61UohpR6nmL._AC_SX569_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cartas para Deus Torrent – Tyler Doherty (Tanner Maguire) é uma criança de 8 anos que sofre de câncer e todos em sua volta não acreditam em sua recuperação. Mas Tyler deposita sua esperança em Deus e acredita que este possa salva-lo. Sua fé faz com que ele escreva um diário sobre suas esperanças e espera por sua recuperação.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAIS QUE VENCEDORES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:084f1041214cd3fbbdc05ef400bd2eb7e1a39086&dn=COMANDOTORRENTSHD.NET%20-%20Mais%20Que%20Vencedores%202020%205.1%20(720p-Mp4)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/07/16/13/24/1189994.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>John Harrison (Alex Kendrick) é um treinador de time de basquete de ensino médio que tem seus sonhos arruinados quando a maior fábrica da cidade é fechada, fazendo com que centenas de famílias precisem se mudar. Relutante em mudar de esporte, ele se vê obrigado a treinar corredores, o que acaba o unindo com uma inusitada atleta para ganhar a maior corrida do ano.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENTREVISTA COM DEUS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A6A14FFCF389796DE24B25DBF802BDE75AE81C2&dn=Entrevista%20com%20Deus%202019%205.1%20DUBLADO%20%28720p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/19/19/12/2710966.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Paul (Brenton Thwaites) precisa conseguir lidar com a falta de esperança que o assola e com um casamento prestes a ruir. Sem saber o que fazer, Paul se vê diante do maior desafio da sua vida profissional: uma entrevista com um homem misterioso que diz ser Deus (David Strathairn). Ao conversar com ele por três dias consecutivos, milhares de questionamentos e respostas surgem, fazendo com que tudo que Paul acredite entre em conflito. O longa traz o seguinte questionamento: o que você perguntaria a Deus?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EU SÓ POSSO IMAGINAR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:459BAE7A16072DAA79DD41ACE78A64B127DB9195&dn=%7bWWW.BLUDV.COM%7d%20Eu%20S%C3%B3%20Posso%20Imaginar%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/12/28/18/56/5113162.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Eu Só Posso Imaginar (I Can Only Imagine) torrent dublado e com qualidade de blu-ray. A verdadeira e inspiradora história desconhecida por trás da renomada canção I Can Only Imagine, da banda de MercyMe, que oferece esperança para muitas pessoas em momentos desafiadores da vida. Surpreendentemente, a canção foi escrita em meros minutos pelo principal vocalista da banda MercyMe, Bart Millard. Mas sua criação abrange toda uma vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SUPERAÇÃO - MILAGRE DA FÉ  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B5413F57EA0A602E1A335D87C1D73A6D12E4EAF&dn=%5bWWW.BLUDV.TV%5d%20Supera%c3%a7%c3%a3o%20-%20O%20Milagre%20da%20F%c3%a9%202019%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/22527-cartaz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Brian tinha 14 anos se afogou no lago St. Louis e morreu por quase uma hora. Segundo relatos da época a RCP foi realizada 27 minutos sem sucesso. Então a mãe dele entrou na sala, orando em voz alta. De repente houve um pulso, e Brian voltou.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MILAGRES DO PARAISO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WS6YPROKNKOUHDEI5IYTNRZ55PEXXWFQ&dn=Milagres%20do%20Para%C3%ADso%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM</link>
+<thumbnail>https://cinema10.com.br/upload/filmes/filmes_10618_milagres1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Milagres do Paraíso, Christy (Jennifer Garner) e Kevin Beam (Martin Henderson) são pais de três meninas: Abbie (Brighton Sharbino), Annabel (Kylie Rogers) e Adelynn (Courtney Fansler). Eles vivem em uma confortável casa, junto de cinco cachorros, e acabaram de abrir uma clínica veterinária, o que fez com que tivessem que apertar os cintos e hipotecar a casa. Cristãos convictos, os Beam vão à igreja com frequência. Um dia, Annabel começa a sentir fortes dores na região do abdomem e, após diversos exames, é constatado que a garota possui um grave problema digestivo. Tal situação faz com que Christy busque a todo custo algum meio de salvar a vida da filha, ao mesmo tempo em que se afasta cada vez mais de sua crença em Deus.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PONTO DE DECISÃO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658aa3bbe9865249407ca8fab6d4efb93ca424a2&dn=%5bHD-ELITE.ME%5d...Ponto.de.Decisao.2009&tr=http%3a%2f%2fretracker.krs-ix.ru%3a80%2fannounce&tr=http%3a%2f%2f182.176.139.129%3a6969%2fannounce&tr=http%3a%2f%2f5.79.83.193%3a2710%2fannounce&tr=http%3a%2f%2f91.218.230.81%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce%3d&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2finferno.demonoid.pw%3a3391%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=http%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/210/364/21036427_20130905192234312.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A estrada do amor verdadeiro sempre é esburacada. Pergunte ao Dave e à Clarice Johnson. Depois de muitos anos de casamento, a afeição de um pelo outro está sendo duramente testada pelas reviravoltas da vida. Um acidente de carro obriga a Clarice a suspender temporariamente as suas atividades, e o casal tem que lidar com tentações carnais, problemas financeiros e desafios emocionais que ameaçam o amor que um sente pelo outro. Então, afinal, veem-se obrigados a avaliar se os votos de casamento que fizeram no altar podem ser facilmente quebrados neste filme emocionante baseado no romance de sucesso de T.D. Jakes.</info>
+</item>
+
