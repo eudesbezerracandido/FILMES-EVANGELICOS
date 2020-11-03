@@ -11,7 +11,7 @@ FILMES EVANGELICOS
 
 <item>
 <title>[COLOR silver][B] DESAFIANDO GIGANTES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf7a2dd148f13190403db09b1d9777c46c0b9b0&dn=Desafiando+Gigantes+%282006%29+BDRip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61tnL3xdOQL._AC_SX569_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Técnico do Shiloh Eagles há seis anos, Grant Taylor (Alex Kendrick) nunca conseguiu levar sua equipe ao título da temporada. Além do mau desempenho no trabalho, Grant deve enfrentar outros problemas graves em casa e seu estado psicológico e moral nunca esteve tão abatido. Quando tudo parece estar prestes a ir por água abaixo, uma intervenção misteriosa muda o seu destino.</info>
