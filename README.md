@@ -115,5 +115,13 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 <info>Quando Willard e Rebecca Bean são chamados à uma cidade que são hostis com eles, eles devem escolher se querem lutar por seu direito de viver lá ou amar seus vizinhos hostis.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ESPERA DE UM MILAGRE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b709766be2263a4a9ec80f804d1cac3ff671965&dn=%26Agrave%3B+Espera+de+um+Milagre+%281999%29+BDRip+720p+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.pinimg.com/originals/55/fa/e4/55fae4eec67040063a72ab93be3bd57f.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> 1935, no corredor da morte de uma prisão sulista. Paul Edgecomb (Tom Hanks) é o chefe de guarda da prisão, que temJohn Coffey (Michael Clarke Duncan) como um de seus prisioneiros. Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso.</info>
+</item>
+
 
 
