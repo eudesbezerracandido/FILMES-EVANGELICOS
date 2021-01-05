@@ -123,6 +123,14 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 <info> 1935, no corredor da morte de uma prisão sulista. Paul Edgecomb (Tom Hanks) é o chefe de guarda da prisão, que temJohn Coffey (Michael Clarke Duncan) como um de seus prisioneiros. Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PAULO, O APOSTOLO DE CRISTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC74E6E70C5314CD6D51DD8DEFACA58F11A15427&dn=Paulo%2c%20Ap%C3%B3stolo%20de%20Cristo%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6J8IDXJlURmOwX3KnfYitSr7QbR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história segue Paulo (James Faulkner), indo do mais famoso perseguidor dos cristãos ao apóstolo mais influente de Jesus Cristo. O filme seguirá seus últimos dias aguardando a execução pelo imperador Nero em Roma sob o olhar atento de Mauritius (Olivier Martinez), o ambicioso prefeito da prisão Mamertina, que procura entender como esse velho quebrado pode representar tal ameaça. À medida que seus dias se tornam mais curtos, Paulo trabalha da prisão para promover o Evangelho de Jesus Cristo e encoraja seus seguidores a permanecerem fortes em sua fé contra a perseguição romana.</info>
+</item>
+
 
 
 
