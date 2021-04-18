@@ -131,6 +131,17 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 <info>A história segue Paulo (James Faulkner), indo do mais famoso perseguidor dos cristãos ao apóstolo mais influente de Jesus Cristo. O filme seguirá seus últimos dias aguardando a execução pelo imperador Nero em Roma sob o olhar atento de Mauritius (Olivier Martinez), o ambicioso prefeito da prisão Mamertina, que procura entender como esse velho quebrado pode representar tal ameaça. À medida que seus dias se tornam mais curtos, Paulo trabalha da prisão para promover o Evangelho de Jesus Cristo e encoraja seus seguidores a permanecerem fortes em sua fé contra a perseguição romana.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  MARCADO PELA PROMESSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73dff8975c642b2772b8b8e22984938657b1994f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sIejVQVc4vuhBCmQm9t4fELPm8r.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Gray (Andrew Cheney) é o filho predileto, assim como José da história bíblica, e acaba despertando o ódio de seus irmãos, que cometem um crime imperdoável para afastá-lo do pai. Conduzido para um futuro incerto, após ser brutalmente ferido, ele segue para uma grande cidade, na esperança de esquecer o passado e começar uma nova vida.
+Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, conta a história de um homem que sofreu muitas injustiças, inclusive sendo enviado à prisão após ser falsamente acusado de atacar a esposa de seu chefe. Depois que o condenado se encontra com a habilidade de virar a mesa de seus algozes, ele não tem certeza do que fazer com esse poder.</info>
+</item>
+
+
+
 
 
 
