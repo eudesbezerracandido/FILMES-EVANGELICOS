@@ -140,6 +140,14 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, conta a história de um homem que sofreu muitas injustiças, inclusive sendo enviado à prisão após ser falsamente acusado de atacar a esposa de seu chefe. Depois que o condenado se encontra com a habilidade de virar a mesa de seus algozes, ele não tem certeza do que fazer com esse poder.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MENINO DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78309DDCCB93A459D3E578108A2ED64D7B5DD5FD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7NrJ2OCTtTlcgGJA2PBNgnAi6UB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Procurando uma criança para adotar e incapaz de conceber um filho, as vidas dos Morrison são viradas de cabeça para baixo quando um menino de 7 anos inesperadamente aparece à sua porta.</info>
+</item>
+
 
 
 
