@@ -148,6 +148,16 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 <info>Procurando uma criança para adotar e incapaz de conceber um filho, as vidas dos Morrison são viradas de cabeça para baixo quando um menino de 7 anos inesperadamente aparece à sua porta.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SANSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec857235536a059dd202c7adbd26f8b6d113fc45</link>
+<thumbnail>https://ia601402.us.archive.org/35/items/sansao_202106/Sansao.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na trama, após perder o amor de sua vida para um cruel príncipe filisteu, um jovem hebreu com forças sobrenaturais defende seu povo, sacrificando tudo para vingar seu amor e seu Deus.</info>
+</item>
+
+
+
 
 
 
