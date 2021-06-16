@@ -156,6 +156,16 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 <info> Na trama, após perder o amor de sua vida para um cruel príncipe filisteu, um jovem hebreu com forças sobrenaturais defende seu povo, sacrificando tudo para vingar seu amor e seu Deus.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DEIXADOS PARA TRAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51AFDDEFCA9C226BF44DC051BD202C1AE48DAC24</link>
+<thumbnail>https://www.themoviedb.org/collection/109082</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A série de filmes Left Behind, feita pela Cloud Ten Pictures, é baseada em uma série de romances campeões de vendas. Eles narram o ponto de vista cristão do fim do mundo. O conflito principal da série são os membros da Força Tribulação contra a Comunidade Global e seu líder Nicolae Carpathia - o Anticristo.</info>
+</item>
+
+
+
 
 
 
