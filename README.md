@@ -1,6 +1,15 @@
 # FILMES-EVANGELICOS
 FILMES EVANGELICOS
 
+
+<item>
+<title>[COLOR silver][B] SOMOS TODOS IGUAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:844FD0F97475E0F9EFA918403E05E71751270CB1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qAKIMoKf6lQ5LTEM0WPg1BLNlyR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Deborah Hall (Renee Zellweger) é uma mulher religiosa que esta lutando contra um grave câncer. Casada com Ron (Greg Kinnear), um negociante de arte reconhecido internacionalmente, ela insiste para que o marido se aproxime de Denver (Djimon Hounsou), um perigoso mendigo com um passado de sofrimento e exploração. Para salvar seu casamento, Ron tenta fazer amizade com Denver, mas, os sonhos escondidos de Deborah podem enviá-los em uma direção incerta.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FAZENDEIRO DE DEUS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1CDE0E36142EEF59A9187C6CEDC769994C907746</link>
