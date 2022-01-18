@@ -2,8 +2,13 @@
 FILMES EVANGELICOS
 
 
-
-
+<item>
+<title>[COLOR silver][B] A MENINA QUE ACRÉDITAVA EM MILAGRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46962a16b96ed5a8a8be7eadf395f8aafc51c807</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao contrário da maioria das pessoas, a jovem Sara Hopkins está disposta a aceitar a palavra de Deus. Então, quando ela ouve um pregador dizer que a fé pode mover montanhas, ela começa a orar.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AO LADO DE CRISTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
