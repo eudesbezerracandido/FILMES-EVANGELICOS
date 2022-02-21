@@ -166,14 +166,6 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 </item>
 
 <item>
-<title>[COLOR silver][B] O MENINO DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/o-menino-de-ouro_202105/O%20MENINO%20DE%20OURO.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7NrJ2OCTtTlcgGJA2PBNgnAi6UB.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Procurando uma criança para adotar e incapaz de conceber um filho, as vidas dos Morrison são viradas de cabeça para baixo quando um menino de 7 anos inesperadamente aparece à sua porta.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] SANSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec857235536a059dd202c7adbd26f8b6d113fc45</link>
 <thumbnail>https://ia601402.us.archive.org/35/items/sansao_202106/Sansao.jpg</thumbnail>
