@@ -2,6 +2,15 @@
 FILMES EVANGELICOS
 
 
+
+<item>
+<title>[COLOR silver][B] A RESSUREIÇÃO DE JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950fc3ca2d02fc04977db014a064b0ec15c8814a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Caçados e sem seu líder, seguidores de Jesus buscam desesperadamente entender a Crucificação. Quando Jesus ressuscita, eles percebem que a esperança segue viva neles e se preparam para espalhar o Evangelho a qualquer custo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MENINA QUE ACRÉDITAVA EM MILAGRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46962a16b96ed5a8a8be7eadf395f8aafc51c807</link>
