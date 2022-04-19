@@ -4,6 +4,14 @@ FILMES EVANGELICOS
 
 
 <item>
+<title>[COLOR silver][B] HOMEM DE DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a28a8f30e6a9aec9cbee7bd054c7971046b3c0bd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rFHAGnTbtkJUiqDNmlkgBuYdky.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Exilados injustamente, condenados sem julgamento, caluniados sem justa causa. As provações e tribulações de Nektarios, que carrega o ódio injusto de seus inimigos enquanto pregava a Palavra de Deus.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A RESSUREIÇÃO DE JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950fc3ca2d02fc04977db014a064b0ec15c8814a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg</thumbnail>
