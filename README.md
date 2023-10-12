@@ -3,6 +3,18 @@ FILMES EVANGELICOS
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] CHEIA DE GRAÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:492c703e63fd874d1a969f09f42805da0636fba6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7HgcL2MsgXwzOU2OsQRr0jpF3Oa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme conta a história do Novo Testamento a partir da perspectiva da Virgem Maria, seguindo seus últimos dias de vida, no qual ela se retira para um lugar tranquilo. Mas o apóstolo Pedro chega a ela por respostas e oprimido pela responsabilidade de espalhar a vida de Jesus em meio a um contexto conturbado. Assim, a mãe de Jesus, irá guiá-lo em sua busca por respostas, dando a paz tão necessária</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HOMEM DE DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a28a8f30e6a9aec9cbee7bd054c7971046b3c0bd</link>
