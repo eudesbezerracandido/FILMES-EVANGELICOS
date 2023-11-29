@@ -5,7 +5,13 @@ FILMES EVANGELICOS
 
 
 
-
+<item>
+<title>[COLOR silver][B] VOCÊ ACRÉDITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359328E117784A944AE76C182BEB2E10C2A7E0BA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tOcgjbRymDsFXrw19X5qRup6RKn.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um pastor encontra por acaso um mendigo que prega a palavra de Deus pelas ruas e decide colocar a sua fé em ação, ajudando diversas pessoas. Logo a vida de uma dezena de indivíduos se cruza, fazendo com que todos descubram o poder da cruz de Cristo – mesmo aqueles que não acreditam nele.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CHEIA DE GRAÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
