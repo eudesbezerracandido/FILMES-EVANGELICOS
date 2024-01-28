@@ -222,7 +222,7 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 
 <item>
 <title>[COLOR silver][B] QUEM MATOU JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C4EF812DBCC97E5675FD4B1FAE5F2ADDA60B12B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4ef812dbcc97e5675fd4b1fae5f2adda60b12b</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/1Wr7apWkhqHSdzmxnQuzlKTzdK.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma minissérie em formato de filme que narra a vida de Jesus de Nazaré. Combinação de épico com uma narrativa intimista, Quem matou Jesus? (no original, Killing Jesus) é uma minissérie de três horas do canal pago Nat Geo. Ela promete mostrar novos detalhes íntimos da história da vida de Jesus de Nazaré e o conluio político que levaram à sua brutal morte na cruz.</info>
