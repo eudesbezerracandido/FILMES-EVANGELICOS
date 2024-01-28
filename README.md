@@ -215,7 +215,7 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3341247027A420492E43981C73A1A56D8610E736$nome=DEIXADOS PARA TRÁS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61f84fe5b6d8872ba03bd827dc3740ccea1c59a7$nome=DEIXADOS PARA TRÁS 2-COMANDO TRIBULAÇÃO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9be81f01496dee1d68f296a405d8e5325ff54d1$nome=DEIXADOS PARA TRÁS 3-MUNDO EM GUERRA</link>
-<thumbnail>https://www.themoviedb.org/collection/109082</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/x22nc44hxDESi7KTWRGdRFZ9kQ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A série de filmes Left Behind, feita pela Cloud Ten Pictures, é baseada em uma série de romances campeões de vendas. Eles narram o ponto de vista cristão do fim do mundo. O conflito principal da série são os membros da Força Tribulação contra a Comunidade Global e seu líder Nicolae Carpathia - o Anticristo.</info>
 </item>
@@ -223,9 +223,17 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 <item>
 <title>[COLOR silver][B] QUEM MATOU JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C4EF812DBCC97E5675FD4B1FAE5F2ADDA60B12B</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1Wr7apWkhqHSdzmxnQuzlKTzdK.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/1Wr7apWkhqHSdzmxnQuzlKTzdK.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma minissérie em formato de filme que narra a vida de Jesus de Nazaré. Combinação de épico com uma narrativa intimista, Quem matou Jesus? (no original, Killing Jesus) é uma minissérie de três horas do canal pago Nat Geo. Ela promete mostrar novos detalhes íntimos da história da vida de Jesus de Nazaré e o conluio político que levaram à sua brutal morte na cruz.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A PAIXÃO DE CRISTO 2004 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:552183F0B419E7BFB9BB122BD09DBE50E9C83C4F</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nhepbUWTnLb9fm4qk9h52MYBszm.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> As últimas 12 horas da vida de Jesus Cristo num retrato rigoroso e a que não escapa nenhum requinte de crueldade e sofrimento. Da Última Ceia à crucificação, um relato realista do sofrimento de Jesus e de Sua Mãe.</info>
 </item>
 
 
