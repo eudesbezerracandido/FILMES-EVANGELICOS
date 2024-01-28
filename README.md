@@ -169,7 +169,7 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 
 <item>
 <title>[COLOR silver][B] LUTA PELA FÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623aa406c0b7467bbf76c56b95f9ae16f33377d2&dn=COMANDO.TO%20-%20Luta%20Pela%20F%c3%a9%202020%20%5b1080p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623aa406c0b7467bbf76c56b95f9ae16f33377d2</link>
 <thumbnail>https://www.thepiratefilmestorrent.me/wp-content/uploads/2020/11/Luta-Pela-F%C3%A9.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando Willard e Rebecca Bean são chamados à uma cidade que são hostis com eles, eles devem escolher se querem lutar por seu direito de viver lá ou amar seus vizinhos hostis.</info>
@@ -203,14 +203,18 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 <item>
 <title>[COLOR silver][B] SANSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec857235536a059dd202c7adbd26f8b6d113fc45</link>
-<thumbnail>https://ia601402.us.archive.org/35/items/sansao_202106/Sansao.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/8FCkStF9Cy3o5TtV4jBAZqA2qYF.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Na trama, após perder o amor de sua vida para um cruel príncipe filisteu, um jovem hebreu com forças sobrenaturais defende seu povo, sacrificando tudo para vingar seu amor e seu Deus.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B] DEIXADOS PARA TRAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51AFDDEFCA9C226BF44DC051BD202C1AE48DAC24</link>
+<title>[COLOR silver][B] COLEÇÃO - DEIXADOS PARA TRÁS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3aad46b776b2321964376c64df244b46f9596b4$nome=DEIXADOS PARA TRAÁS-O INICIO DO FIM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3341247027A420492E43981C73A1A56D8610E736$nome=DEIXADOS PARA TRAÁS-A NOVA GERAÇÃO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3341247027A420492E43981C73A1A56D8610E736$nome=DEIXADOS PARA TRAÁS 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61f84fe5b6d8872ba03bd827dc3740ccea1c59a7$nome=DEIXADOS PARA TRAÁS 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9be81f01496dee1d68f296a405d8e5325ff54d1$nome=DEIXADOS PARA TRAÁS 3</link>
 <thumbnail>https://www.themoviedb.org/collection/109082</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A série de filmes Left Behind, feita pela Cloud Ten Pictures, é baseada em uma série de romances campeões de vendas. Eles narram o ponto de vista cristão do fim do mundo. O conflito principal da série são os membros da Força Tribulação contra a Comunidade Global e seu líder Nicolae Carpathia - o Anticristo.</info>
