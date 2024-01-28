@@ -113,7 +113,7 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 
 <item>
 <title>[COLOR silver][B] CARTAS PARA DEUS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036555a158e2da9b93ada67b5181c2d68f92633a</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d88d808bf1318cc9f3e4ac79a6fee2e43d86db3f</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61UohpR6nmL._AC_SX569_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Cartas para Deus Torrent – Tyler Doherty (Tanner Maguire) é uma criança de 8 anos que sofre de câncer e todos em sua volta não acreditam em sua recuperação. Mas Tyler deposita sua esperança em Deus e acredita que este possa salva-lo. Sua fé faz com que ele escreva um diário sobre suas esperanças e espera por sua recuperação.</info>
