@@ -129,7 +129,7 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 
 <item>
 <title>[COLOR silver][B] ENTREVISTA COM DEUS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A6A14FFCF389796DE24B25DBF802BDE75AE81C2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb84627baf19ab4ad1c35b461f43a03c7185fdfe</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/18/09/19/19/12/2710966.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Paul (Brenton Thwaites) precisa conseguir lidar com a falta de esperança que o assola e com um casamento prestes a ruir. Sem saber o que fazer, Paul se vê diante do maior desafio da sua vida profissional: uma entrevista com um homem misterioso que diz ser Deus (David Strathairn). Ao conversar com ele por três dias consecutivos, milhares de questionamentos e respostas surgem, fazendo com que tudo que Paul acredite entre em conflito. O longa traz o seguinte questionamento: o que você perguntaria a Deus?</info>
