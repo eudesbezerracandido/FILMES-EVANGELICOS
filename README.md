@@ -212,9 +212,9 @@ Enredo: O drama temático religioso de Paul Stehlik Jr., Estações de Gray, con
 <title>[COLOR silver][B] COLEÇÃO - DEIXADOS PARA TRÁS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3aad46b776b2321964376c64df244b46f9596b4$nome=DEIXADOS PARA TRAÁS-O INICIO DO FIM</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3341247027A420492E43981C73A1A56D8610E736$nome=DEIXADOS PARA TRAÁS-A NOVA GERAÇÃO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3341247027A420492E43981C73A1A56D8610E736$nome=DEIXADOS PARA TRAÁS 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61f84fe5b6d8872ba03bd827dc3740ccea1c59a7$nome=DEIXADOS PARA TRAÁS 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9be81f01496dee1d68f296a405d8e5325ff54d1$nome=DEIXADOS PARA TRAÁS 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3341247027A420492E43981C73A1A56D8610E736$nome=DEIXADOS PARA TRAÁS</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61f84fe5b6d8872ba03bd827dc3740ccea1c59a7$nome=DEIXADOS PARA TRAÁS 2-COMANDO TRIBULAÇÃO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9be81f01496dee1d68f296a405d8e5325ff54d1$nome=DEIXADOS PARA TRAÁS 3-MUNDO EM GUERRA</link>
 <thumbnail>https://www.themoviedb.org/collection/109082</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A série de filmes Left Behind, feita pela Cloud Ten Pictures, é baseada em uma série de romances campeões de vendas. Eles narram o ponto de vista cristão do fim do mundo. O conflito principal da série são os membros da Força Tribulação contra a Comunidade Global e seu líder Nicolae Carpathia - o Anticristo.</info>
