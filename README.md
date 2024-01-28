@@ -105,7 +105,7 @@ Enredo: Jay Austin, um vendedor de carros desonesto com muitas dívidas, chega a
 
 <item>
 <title>[COLOR silver][B] MILAGRE NA CELA SETE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621f49c9372d50743e152e8503d3dc67b44f905b</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b776d5643a7e538b915f644e1d0d80e4d2de2e</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/19/10/08/15/52/1926679.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma história de amor entre um pai com doença mental que foi injustamente acusado de assassinato e sua adorável filha de seis anos. A prisão seria a casa deles. </info>
