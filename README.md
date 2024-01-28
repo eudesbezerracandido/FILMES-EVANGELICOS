@@ -47,7 +47,7 @@ FILMES EVANGELICOS
 
 <item>
 <title>[COLOR silver][B] AO LADO DE CRISTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a87f00bbfb63eb998e99f4286d20da2a2d3bed68</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VB7QBO73MPVZTDUZ6QUG2IG2FIWTX3LI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qgslCpWaZieFb463otrZIHXBiFx.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Esta é a história de dois homens não identificados que foram crucificados ao lado de Jesus e como eles vieram para estar ao lado dele na cruz naquele dia fatídico. Esta é uma história épica que começa com a jornada dos Magos e seu encontro casual com o jovem Dimas e seu irmão Jotão na manjedoura em Belém. Logo depois, os jovens irmãos sofreram uma tragédia indescritível que resultou em serem capturados por um bando de ladrões com tendência para a violência. Lá, eles encontram Gestas, outro jovem que compartilhará seu destino. Juntos, em sua jornada para a cruz, eles tentarão superar seu destino. Mas primeiro, eles devem sobreviver a um centurião romano implacável que ameaça desencadear uma terrível vingança sobre eles. Ao longo do caminho, eles cruzam caminhos com Jesus e outras figuras bíblicas influentes – mas eles logo descobrirão que não há como escapar do fim brutal que os aguarda no Gólgota.</info>
